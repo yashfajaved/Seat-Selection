@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Task 8 Seat Selection",
+    "slug": "task8-seat-selection",
+    "version": "1.0.0",
+    "sdkVersion": "54.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
